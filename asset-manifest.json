@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Loading-screen/static/css/main.c496d51f.css",
+    "main.js": "/Loading-screen/static/js/main.9f006c6b.js",
+    "index.html": "/Loading-screen/index.html",
+    "main.c496d51f.css.map": "/Loading-screen/static/css/main.c496d51f.css.map",
+    "main.9f006c6b.js.map": "/Loading-screen/static/js/main.9f006c6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c496d51f.css",
+    "static/js/main.9f006c6b.js"
+  ]
+}
